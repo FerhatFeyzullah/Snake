@@ -43,12 +43,7 @@ The game includes increasing difficulty, moving obstacles, bombs, and even a dar
 1. Clone or download this repository.  
 2. Navigate to the `Export` folder.  
 3. Run the executable file: "Snake.exe"
-4. 4. Enjoy the game 🎮  
-
----
-
-## 📸 Screenshots
-(Add gameplay screenshots here)
+4. Enjoy the game 🎮 
 
 ---
 
